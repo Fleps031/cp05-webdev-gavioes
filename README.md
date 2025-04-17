@@ -8,7 +8,6 @@ Enzo Luciano - RM559557\
 Felipe Molinari - RM559885\
 Luigi Thiengo - RM560755\
 Livia Pereira - RM559414
->>>>>>> fb42df2298d22dd9d00b7642ff7d32a1ea26114d
 
 
 
@@ -90,5 +89,3 @@ A entrega deve ser realizada no TEAMs na tarefa que foi criada para sua turma / 
 > * O repositório deve conter RA e Nome completo dos integrantes
 > * Verifique se o link corresponde ao repositório e esteja correto antes de enviar ao Teams 
 > * **Prazo da entrega**: 16/04 
-
-=======
