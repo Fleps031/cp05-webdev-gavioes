@@ -1,7 +1,15 @@
-<<<<<<< HEAD
 ![](./fiap.png)
 
 # Web development 2024/2
+
+# cp05-webdev-gavioes
+Alexandre Colvet - RM560059\
+Enzo Luciano - RM559557\
+Felipe Molinari - RM559885\
+Luigi Thiengo - RM560755\
+Livia Pereira - RM559414
+>>>>>>> fb42df2298d22dd9d00b7642ff7d32a1ea26114d
+
 
 
 | Checkpoint        | 5      | ```CURSO:```     | ENGENHARIA DE SOFTWARE |
@@ -84,10 +92,3 @@ A entrega deve ser realizada no TEAMs na tarefa que foi criada para sua turma / 
 > * **Prazo da entrega**: 16/04 
 
 =======
-# cp05-webdev-gavioes
-Alexandre Colvet - RM560059\
-Enzo Luciano - RM559557\
-Felipe Molinari - RM559885\
-Luigi Thiengo - RM560755\
-Livia Pereira - RM559414
->>>>>>> fb42df2298d22dd9d00b7642ff7d32a1ea26114d
